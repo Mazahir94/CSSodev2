@@ -1,0 +1,35 @@
+
+.tac {
+text-align: center;
+margin: 0 10%;
+}
+.bg {
+    background-color: gainsboro;
+    margin-top: 0px;
+}
+
+.width {
+    width: 300px;
+}
+
+
+.box1 {
+    margin-left: 1%;
+    float: left;
+    width: 24%;
+    background-color: aquamarine;
+  }
+
+  .box2 {
+    margin-left: 1%;
+    float: left;
+    width: 21%;
+    background-color: aquamarine;
+  }
+
+  .box3 {
+    
+    float: left;
+    width:33%;
+    background-color: aquamarine;
+  }
