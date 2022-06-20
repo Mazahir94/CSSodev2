@@ -1,2 +1,2 @@
 [Patika dev adresim](https://app.patika.dev/ltime)
-![proje resimi]{}
+![proje resimi]{projeresimi.png}
