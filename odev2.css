@@ -1,7 +1,9 @@
-
+* {
+  box-sizing: border-box;
+}
 .tac {
 text-align: center;
-margin: 0 10%;
+margin: 0 5%;
 }
 .bg {
     background-color: gainsboro;
@@ -12,24 +14,40 @@ margin: 0 10%;
     width: 300px;
 }
 
+.mt {
+  margin-top: -13px;
+}
+
+ol {
+  list-style: none;
+}
 
 .box1 {
-    margin-left: 1%;
+  padding: 12px 0;
+  height: 85px;
     float: left;
-    width: 24%;
-    background-color: aquamarine;
+    width:35%;
+    margin-right:;
+    background-color:#7EE5DA;
   }
 
   .box2 {
-    margin-left: 1%;
+
+    height: 85px;
     float: left;
-    width: 21%;
-    background-color: aquamarine;
+    width: 24.8%;
+    margin-left: 0.2%;
+    background-color:#62B3AA;
   }
 
   .box3 {
-    
+    height: 85px;
     float: left;
-    width:33%;
-    background-color: aquamarine;
+    margin-left: 0.2%;
+    width:39.8%;
+    background-color: #62B3AA;
+  }
+
+  .clear {
+    clear: both;
   }
