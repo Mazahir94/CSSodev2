@@ -1,0 +1,10 @@
+.renk {
+    background-color:#E9ECEF ;
+}
+
+.card-img-top {
+    width: 100% !important;
+    height: 15vw !important;
+    object-fit: cover !important;
+}
+
